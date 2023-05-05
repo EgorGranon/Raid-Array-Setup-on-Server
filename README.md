@@ -1,4 +1,4 @@
-# Raid-Array-Setup-on-Server
+# RAID-Array-Setup-on-Server
 
 <h2>1) Access BIOS settings</h2>
 Boot the server if it is off or restart if it is already on. As the server boots press the <b>Delete</b> or <b>F2</b> key to enter into the BIOS. <b>(Warning! Depending on the age of your model, the key may be different.)</b>
