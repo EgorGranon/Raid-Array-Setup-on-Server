@@ -30,7 +30,7 @@ Your screen should look something like this:
 Step 3) As in the image above select <b>RAID On</b> in the menu on the right and select <b>Apply</b> on the bottom of the screen 
 
 <h2>3) Configuring a RAID5(parity) array int the motherboard RAID configuration utility</h2>
-Step 1) After selecting Apply in the previous step click on <b>Exit</b> located to the right of the Apply button. This will trigger the system to restart. As the system restarts the BIOS will load and then the RAID controller will automatically load.
+Step 1) After selecting Apply in the previous step click on <b>Exit</b> located to the right of the Apply button. This will trigger the system to restart. As the system restarts the BIOS will load and then the RAID controller will automatically load. 
 <br />
 <br />
 You will be presented with a similar screen as follows:
